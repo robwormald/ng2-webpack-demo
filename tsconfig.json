@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "rootDir": "app",
+        "moduleResolution": "node",
+        "lib": [
+          "es2015",
+          "dom"
+        ]
+    },
+    "files": [
+      "app/main.ts",
+      "app/app.module.ts",
+      "node_modules/@types/node/index.d.ts"
+    ]
+}
