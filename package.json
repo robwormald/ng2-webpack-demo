@@ -1,8 +1,9 @@
 {
-  "name": "ng2-lazy-loading-aot",
+  "name": "ng2-webpack-demo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
